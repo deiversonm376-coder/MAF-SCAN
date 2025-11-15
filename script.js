@@ -1,0 +1,1 @@
+let obras=[];function atualizarLista(){const lista=document.getElementById('listaObras');lista.innerHTML='';obras.forEach(o=>{let d=document.createElement('div');d.innerHTML=`<h3>${o.titulo}</h3><img src='${o.capa}' width='120'><p>${o.tipo}</p>`;lista.appendChild(d);});}

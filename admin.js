@@ -1,0 +1,1 @@
+function adicionar(){alert('Obra adicionada! (Versão simples, Firebase será integrado depois)');}

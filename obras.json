@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "titulo": "Exemplo de Obra",
+        "tipo": "Manhwa",
+        "atualizado": "2025-01-01",
+        "capitulos": [
+            {
+                "numero": 1,
+                "paginas": [
+                    "capitulos/exemplo/1/1.jpg",
+                    "capitulos/exemplo/1/2.jpg"
+                ]
+            }
+        ]
+    }
+]
